@@ -1,9 +1,41 @@
-body{
-    background-color: #999999;
+header{
+    overflow: hidden;
+    background-color: #8B0000;
+    padding: 20px 10px;
+}
+.body{
+    background-color: #F5F5DC;
 }
 h1{
-
+    font-size: 50px;
+    text-align: center;
+    font-family: "Slabo  27px, serif";
 }
 p{
-
+    text-align: justify;
+    font-family: "Raleway" ;
+}
+a{
+    font-size: 20px;
+}
+.section{
+    
+}
+#articulos{
+    background-color: #DCDCDC;
+}
+img{
+    height: 300px;
+    width: auto;
+    display: block;
+    margin: auto;
+}
+li{
+    list-style: none;
+    font-family: "Raleway" ;
+}
+footer{
+    background-color: #8B0000;
+    font-weight: bold;
+    font-size: 20px;
 }
