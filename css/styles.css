@@ -2,6 +2,8 @@ header{
     overflow: hidden;
     background-color: #8B0000;
     padding: 20px 10px;
+    border-style: outset;
+    border-width: 10px;
 }
 .body{
     background-color: #F5F5DC;
@@ -19,16 +21,18 @@ a{
     font-size: 20px;
 }
 .section{
-    
+   
 }
 #articulos{
     background-color: #DCDCDC;
+    border-style: ridge;
 }
 img{
     height: 300px;
     width: auto;
     display: block;
     margin: auto;
+    border-style: double;
 }
 li{
     list-style: none;
@@ -38,4 +42,5 @@ footer{
     background-color: #8B0000;
     font-weight: bold;
     font-size: 20px;
+    border-style: dotted;
 }
